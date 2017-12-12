@@ -1,0 +1,7 @@
+[submodule "molgenis-client-r-api"]
+	path = molgenis-client-r-api
+	url = https://gitub.com/sidohaakma/molgenis-client-r-api
+[submodule "molgenis-client-r-spss"]
+	path = molgenis-client-r-spss
+	url = https://github.com/sidohaakma/molgenis-client-r-spss.git
+
